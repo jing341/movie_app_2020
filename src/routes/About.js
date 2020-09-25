@@ -7,7 +7,7 @@ function About(props) {
     return (
         <div className="about__container">
             <span>
-            "This movie app is made by the great Lizard' (I) myself."
+            "This movie app is made by the great 'Lizard' (I) myself."
             </span>
             <span>-Lizard-</span>
         </div>

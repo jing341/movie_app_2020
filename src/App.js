@@ -6,7 +6,6 @@ import About from './routes/About'
 import Navigation from './components/Navigation';
 import Detail from './routes/Detail';
 
-
 function App() {
   return (
     <HashRouter>
