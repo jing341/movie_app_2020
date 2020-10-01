@@ -12,9 +12,9 @@ class Detail extends React.Component {
         if (location.state) {
         return (
             <div>
-        <span>{location.state.title}</span>
+        <h1 style>{location.state.title}</h1>
         <span>{location.state.summary}</span>
-        </div>
+            </div>
         )
     } else {
         return null;
