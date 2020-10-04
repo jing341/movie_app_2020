@@ -9,7 +9,7 @@ function About(props) {
             <span>
             "This movie app is made by the great 'Lizard' (I) myself."
             </span>
-            <span>-Lizard-</span>
+            <a href="https://scratch.mit.edu/users/Lizard_coding"><span>-Lizard-</span></a>
         </div>
     );
 }
